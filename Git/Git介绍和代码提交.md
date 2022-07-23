@@ -1,4 +1,4 @@
-### <center> Git学习
+### <center> Git介绍和代码提交
 #### 1.Git概述和工作流程
 &emsp;&emsp;Git是分布式版本控制系统（Distributed Version Control System，简称 DVCS。
 &emsp;&emsp;Git的详细命令可以参考Git官网[https://git-scm.com/docs](https://git-scm.com/docs).
