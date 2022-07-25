@@ -19,7 +19,7 @@
 - 2.在他的子节点`children`添加一个`shape`节点;
 - 3.`shape`节点的`appearance`选择`PBRAppearance`;
 - 4.`geometry`表示物体的形状，选择`Sphere`;
-- 5.物体边界`boundingObject`也选择`Sphere`,可以设置`DEF`名字，`DEF`机制允许在一个地方定义节点并在场景树的其他地方调用
+- 5.物体边界`boundingObject`也选择`Sphere`,可以设置`DEF`名字，`DEF`机制允许在一个地方定义节点并在场景树的其他地方调用。
 
 
 
