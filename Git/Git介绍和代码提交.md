@@ -58,6 +58,6 @@ git branch -d <branch_name> #删除分支
 git branch -D <branch_name> #强制删除分支
 git checkout <branch_name> #切换分支
 git checkout -b <branch_name> #创建并切换分支
-git merge <branch_name> #
+git merge <branch_name> #把branch_name分支合并到当前分支
 ```
 
