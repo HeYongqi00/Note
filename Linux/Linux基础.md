@@ -125,7 +125,7 @@ deb http://mirrors.aliyun.com/ubuntu/ focal-security multiverse
 # see the sources.list(5) manual.
 ```
 &emsp;&emsp;在`Ubuntu桌面版`中`Software & Updates`里面的设置可以如下:
-![在这里插入图片描述](https://img-blog.csdnimg.cn/5ba5c5f852eb4221850cf13cf583f397.png#pic_center)![在这里插入图片描述](https://img-blog.csdnimg.cn/5e2262a238904b098c9eb22a69e408bb.png#pic_center)
+![](https://img-blog.csdnimg.cn/5ba5c5f852eb4221850cf13cf583f397.png#pic_center)![在这里插入图片描述](https://img-blog.csdnimg.cn/5e2262a238904b098c9eb22a69e408bb.png#pic_center)
 
 
 
